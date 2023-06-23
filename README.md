@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian Poroj</h1>
 <h3 align="center">Energetic and dedicated to the world of frontend development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crisleop21" alt="crisleop21" /></a> </p>
-
 - 📫 How to reach me **leonelporoj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
